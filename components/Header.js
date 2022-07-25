@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/Image";
 import HeaderItem from "./HeaderItem";
 import {
   HomeIcon,
